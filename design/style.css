@@ -35,3 +35,10 @@ button {
 button:hover {
     background-color: darkcyan;
 }
+.orange {
+    background-color: orangered;
+    
+}
+::placeholder {
+  color: rgba(245, 222, 179, 0.801);
+  opacity: 1; /* Firefox */
